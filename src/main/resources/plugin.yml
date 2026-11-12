@@ -1,0 +1,7 @@
+name: VikingKeyCounter
+version: 1.0.0
+main: com.serverdejj.vikingkey.VikingKeyCounter
+api-version: '1.21'
+softdepend: [PlaceholderAPI, ExcellentCrates]
+authors: [ServerDeJJ]
+description: Counts physical ExcellentCrates keys with id llave_vikingo.
